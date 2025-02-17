@@ -4,7 +4,7 @@
 
 # Hello! 👋️
 
-Give me banana!🍌 and it makes me smile🙈.
+Give me a banana!🍌 and it makes me smile🙈.
 
 Processing . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 <!---
